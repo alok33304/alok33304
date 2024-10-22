@@ -10,7 +10,7 @@
  ### 🛠️ My Tech Stack:
 - *Languages*: [Python, Java, Javascript]
 - *Tools*: [VS Code,Python,Java JDK]
-- *Platforms*:[GeeksforGeeks,HakerRank,W3schools]
+- *Platforms*:[GeeksforGeeks,LeetCode,W3schools]
   
 ### Connect with me:
 <div id="badges">
